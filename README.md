@@ -11,10 +11,15 @@ Git Repository: https://github.com/lipandevelope/ContactListAssignment
 Deployment/Running Instruction: 
 
 •	Open GitHub Repository Link
+
 •	Download project via “Download Zip”
+
 •	Unzip compressed file and run TribalScaleInterviewAssignment.xcodeproj
+
 •	When project finishes indexing, run by pressing “Play” Button on top left corner of Xcode, or by pressing Command “R”
+
 •	Scroll TableView to access all 20 contacts,
+
 •	Swipe left on cell to access detailed view,
 
 Approach:
